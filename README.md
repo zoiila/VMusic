@@ -2,7 +2,7 @@
   <img src="assets/vmusic-01-hero.svg" width="100%" alt="VMusic — Music for every moment, a Minecraft music project by VACK STUDIO" />
 </p>
 
-# VMusic <img src="assets/mascots/vmusic-side-peek.webp" alt="Mini Zoiila peeking from the edge" width="32" height="32" />
+# VMusic <img src="assets/emoji/vmusic-listening.webp" alt="Mini Zoiila listening to music" width="30" height="30" />
 
 **Music for every moment.**
 
@@ -13,15 +13,15 @@ The direction is deliberately restrained: music should complement Minecraft, not
 > [!IMPORTANT]
 > **Commercial project showcase.** This public repository is a presentation of VMusic, not a distribution of its source code or an installable JAR. Feature descriptions below are design goals unless verified by a public release.
 
-## Music that belongs to the world
+## Music that belongs to the world <img src="assets/emoji/vmusic-thinking.webp" alt="Mini Zoiila thinking about music" width="25" height="25" />
 
-**The same server. Different moods.**
+**The same server. Different moods.** <img src="assets/emoji/vmusic-singing.webp" alt="Mini Zoiila singing" width="24" height="24" />
 
 VMusic is designed around audio contexts, rather than a single track playing everywhere. A lobby can feel welcoming, a game can have a different tempo, and background music can stay quiet enough to let Minecraft's own sounds breathe.
 
 The intended workflow uses **OGG audio** and playlists organized by experience. Music playback, integration and version compatibility must still be verified against an actual build before being described as shipped features.
 
-## A soundtrack for the moment <img src="assets/mascots/vmusic-groove.webp" alt="Mini Zoiila dancing" width="30" height="30" />
+## A soundtrack for the moment <img src="assets/emoji/vmusic-groove.webp" alt="Mini Zoiila enjoying the rhythm" width="28" height="28" />
 
 <p align="center">
   <img src="assets/vmusic-03-playback.svg" width="100%" alt="VMusic playback presentation: lobby ambience, game music and listening preferences" />
@@ -37,7 +37,7 @@ The intended workflow uses **OGG audio** and playlists organized by experience. 
 
 *The visual above is an editorial illustration, not an in-game UI screenshot. The behaviors in this table are planned design requirements, not a claim of runtime acceptance.*
 
-## Set the mood, not the volume <img src="assets/mascots/vmusic-singing.webp" alt="Mini Zoiila singing" width="30" height="30" />
+## Set the mood, not the volume <img src="assets/emoji/vmusic-chill.webp" alt="Mini Zoiila listening calmly" width="28" height="28" />
 
 <p align="center">
   <img src="assets/vmusic-04-setup-notes.svg" width="100%" alt="VMusic practical preparation notes: OGG files, music mood, player comfort and transitions" />
@@ -49,6 +49,10 @@ A good soundtrack feels like part of the world. For music preparation, start wit
 - **Give each space a reason to sound different.** Avoid making every lobby, waiting room and game feel identical.
 - **Keep the level comfortable.** Background music should never drown out gameplay or essential sounds.
 - **Test the transitions.** Check entry, game changes, late joins, and the switch to the next song.
+
+**Mini Zoiila's soundcheck** <img src="assets/emoji/vmusic-presenting.webp" alt="Mini Zoiila sharing a music tip" width="25" height="25" />
+
+Give each playlist a clear purpose. Keep a record of audio licenses, and compare how the same track feels in a quiet lobby and during active gameplay before settling on its volume.
 
 The public repository does not currently provide a verified configuration reference, so this page intentionally avoids unsupported commands or copy-and-paste installation instructions.
 
@@ -87,6 +91,6 @@ Copyright © 2026 VACK STUDIO. All rights reserved.
 
 VMusic, its presentation art and documentation are proprietary. Redistribution of proprietary source or builds requires authorization. Third-party software and assets retain their own rights.
 
-The VACK logo and original Zoiila/Chick signature are carried over from the VACK STUDIO project showcase. The music-themed Mini Zoiila pose illustrations were newly generated for this showcase and remain subject to owner visual approval. The banners illustrate the product direction; they do not document unverified software functionality.
+The VACK logo and original Zoiila/Chick signature are carried over from the VACK STUDIO project showcase. The music-themed Mini Zoiila emojis are decorative artwork for this draft README. Mascot poses are reserved for the first (hero) banner; the interior banners remain editorial diagrams without mascot poses. The banners illustrate the product direction; they do not document unverified software functionality.
 
 </details>
