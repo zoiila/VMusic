@@ -2,7 +2,7 @@
   <img src="assets/vmusic-01-hero.svg" width="100%" alt="VMusic — Music for every moment, a Minecraft music project by VACK STUDIO" />
 </p>
 
-# VMusic
+# VMusic <img src="assets/mascots/vmusic-side-peek.webp" alt="Mini Zoiila peeking from the edge" width="32" height="32" />
 
 **Music for every moment.**
 
@@ -21,7 +21,7 @@ VMusic is designed around audio contexts, rather than a single track playing eve
 
 The intended workflow uses **OGG audio** and playlists organized by experience. Music playback, integration and version compatibility must still be verified against an actual build before being described as shipped features.
 
-## A soundtrack for the moment
+## A soundtrack for the moment <img src="assets/mascots/vmusic-groove.webp" alt="Mini Zoiila dancing" width="30" height="30" />
 
 <p align="center">
   <img src="assets/vmusic-03-playback.svg" width="100%" alt="VMusic playback presentation: lobby ambience, game music and listening preferences" />
@@ -37,7 +37,7 @@ The intended workflow uses **OGG audio** and playlists organized by experience. 
 
 *The visual above is an editorial illustration, not an in-game UI screenshot. The behaviors in this table are planned design requirements, not a claim of runtime acceptance.*
 
-## Set the mood, not the volume
+## Set the mood, not the volume <img src="assets/mascots/vmusic-singing.webp" alt="Mini Zoiila singing" width="30" height="30" />
 
 <p align="center">
   <img src="assets/vmusic-04-setup-notes.svg" width="100%" alt="VMusic practical preparation notes: OGG files, music mood, player comfort and transitions" />
@@ -87,6 +87,6 @@ Copyright © 2026 VACK STUDIO. All rights reserved.
 
 VMusic, its presentation art and documentation are proprietary. Redistribution of proprietary source or builds requires authorization. Third-party software and assets retain their own rights.
 
-The VACK logo and original Zoiila/Chick signature are carried over from the VACK STUDIO project showcase. Visual banner concepts are review-stage artwork and do not document unverified software functionality.
+The VACK logo and original Zoiila/Chick signature are carried over from the VACK STUDIO project showcase. The music-themed Mini Zoiila pose illustrations were newly generated for this showcase and remain subject to owner visual approval. The banners illustrate the product direction; they do not document unverified software functionality.
 
 </details>
