@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1680" height="850" viewBox="0 0 1680 850" role="img" aria-label="VMusic — Practical music preparation notes"><title>VMusic — Practical music preparation notes</title>
+<path d="M1539 750L1590 787H1389" fill="none" stroke="#B8A0EA" stroke-width="2.4" opacity=".5"/>
+
+<g transform="rotate(-0.7 835 419.5)">
+<rect x="136" y="107" width="1418" height="675" rx="7" fill="#02040A" opacity=".45"/>
+<rect x="124" y="94" width="1418" height="675" rx="6" fill="#352C4D" opacity=".9"/>
+<rect x="112" y="82" width="1418" height="675" rx="5" fill="#1B202A" stroke="#50596B" stroke-width="2"/>
+<path d="M112 82H1530" fill="none" stroke="#B8A0EA" stroke-width="3" opacity=".85"/>
+<path d="M175 165V689" fill="none" stroke="#8C72B8" stroke-width="2" opacity=".75"/>
+</g>
+<g transform="rotate(-.7 835 420)">
+<text x="195" y="151" fill="#B8A0EA" font-family="Inter,Arial,Helvetica,sans-serif" font-size="20" font-weight="750" letter-spacing="2.2">04  /  SETUP NOTES</text>
+<text x="191" y="246" fill="#F8F7FC" font-family="Inter,Arial,Helvetica,sans-serif" font-size="64" font-weight="740" letter-spacing="-2.0">Set the mood, not the volume.</text>
+<text x="196" y="290" fill="#B7C1D0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="25">A good playlist feels part of the world.</text>
+<path d="M194 322H1439" stroke="#50596B" stroke-width="2"/>
+<rect x="196" y="354" width="585" height="142" rx="3" fill="#161C27" stroke="#50596B" stroke-width="1"/>
+<rect x="196" y="354" width="9" height="142" fill="#B8A0EA"/>
+<text x="231" y="398" fill="#F8F7FC" font-family="Inter,Arial,Helvetica,sans-serif" font-size="29" font-weight="730">01  Prepare your audio</text>
+<text x="233" y="434" fill="#B7C1D0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="21">Use appropriately licensed OGG files.</text>
+<text x="233" y="461" fill="#B7C1D0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="21">Keep source filenames consistent.</text>
+<rect x="802" y="354" width="638" height="142" rx="3" fill="#161C27" stroke="#454A5B" stroke-width="1"/>
+<rect x="802" y="354" width="9" height="142" fill="#B8A0EA"/>
+<text x="834" y="398" fill="#F8F7FC" font-family="Inter,Arial,Helvetica,sans-serif" font-size="29" font-weight="730">02  Give each place a mood</text>
+<text x="837" y="434" fill="#B7C1D0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="21">Separate lobby and game music.</text>
+<text x="837" y="461" fill="#B7C1D0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="21">Avoid distracting or sudden changes.</text>
+<rect x="196" y="518" width="585" height="142" rx="3" fill="#161C27" stroke="#454A5B" stroke-width="1"/>
+<rect x="196" y="518" width="9" height="142" fill="#B8A0EA"/>
+<text x="231" y="562" fill="#F8F7FC" font-family="Inter,Arial,Helvetica,sans-serif" font-size="29" font-weight="730">03  Make room for the game</text>
+<text x="233" y="598" fill="#B7C1D0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="21">Keep ambient audio comfortable.</text>
+<text x="233" y="625" fill="#B7C1D0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="21">Leave space for gameplay sounds.</text>
+<rect x="802" y="518" width="638" height="142" rx="3" fill="#161C27" stroke="#50596B" stroke-width="1"/>
+<rect x="802" y="518" width="9" height="142" fill="#B8A0EA"/>
+<text x="834" y="562" fill="#F8F7FC" font-family="Inter,Arial,Helvetica,sans-serif" font-size="29" font-weight="730">04  Test the transition</text>
+<text x="837" y="598" fill="#B7C1D0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="21">Try late joins and world transfers.</text>
+<text x="837" y="625" fill="#B7C1D0" font-family="Inter,Arial,Helvetica,sans-serif" font-size="21">Confirm the next track starts cleanly.</text>
+<text x="1440" y="713" text-anchor="end" fill="#8C72B8" font-family="Inter,Arial,Helvetica,sans-serif" font-size="14">PRACTICAL PREPARATION / NOT A SETUP COMMAND GUIDE</text>
+</g>
+
+
+</svg>
