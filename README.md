@@ -70,7 +70,9 @@ If you're evaluating VMusic for a server, ask for the tested build version and d
 
 ## Access and licensing
 
-**VMusic is a commercial VACK STUDIO project.** Contact the studio through its official channels for availability, license terms and release information.
+**VMusic is a proprietary VACK STUDIO project.** The public repository is a showcase, not a software download or an open-source distribution. Viewing its files does not grant permission to redistribute, modify, repackage, or commercially use proprietary VMusic code or artwork.
+
+For authorized access and commercial licensing, contact VACK STUDIO through the official links below. See the full [LICENSE](LICENSE) for the rights notice, third-party asset treatment, and usage restrictions.
 
 ---
 
@@ -91,6 +93,6 @@ Copyright © 2026 VACK STUDIO. All rights reserved.
 
 VMusic, its presentation art and documentation are proprietary. Redistribution of proprietary source or builds requires authorization. Third-party software and assets retain their own rights.
 
-The VACK logo and original Zoiila/Chick signature are carried over from the VACK STUDIO project showcase. The music-themed Mini Zoiila emojis are decorative artwork for this draft README. Mascot poses are reserved for the first (hero) banner; the interior banners remain editorial diagrams without mascot poses. The banners illustrate the product direction; they do not document unverified software functionality.
+The VACK logo and original Zoiila/Chick signature are carried over from the VACK STUDIO project showcase. The music-themed Mini Zoiila emojis are decorative artwork for the VMusic project showcase. Mascot poses are reserved for the first (hero) banner; the interior banners remain editorial diagrams without mascot poses. The banners illustrate the product direction; they do not document unverified software functionality.
 
 </details>
