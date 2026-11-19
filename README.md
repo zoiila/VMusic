@@ -1,100 +1,92 @@
 <p align="center">
-  <img src="assets/vmusic-01-hero.svg" alt="VMusic by VACK STUDIO — Music for every moment, with Mini Zoiila sitting on the banner edge" width="100%" />
+  <img src="assets/vmusic-01-hero.svg" width="100%" alt="VMusic — Music for every moment, a Minecraft music project by VACK STUDIO" />
 </p>
 
-# VMusic <img src="assets/emoji/music-headphones.svg" alt="Mini Zoiila with headphones" width="30" height="30" />
+# VMusic
 
 **Music for every moment.**
 
-Minecraft has a rhythm of its own. **VMusic** is a VACK STUDIO music project designed around the spaces between the action: welcoming lobbies, game sessions and the quieter moments that make a server feel like a place.
+A world has its own sound. The lobby feels different from the start of a match, and a quiet waiting room deserves a different mood from an active game. **VMusic** is a Minecraft music project by **VACK STUDIO**, designed around those moments.
 
-Rather than turning a server into a radio station, the goal is to give each experience an atmosphere that feels natural, with room for the game itself.
+The direction is deliberately restrained: music should complement Minecraft, not compete with it.
 
 > [!IMPORTANT]
-> **Private commercial project.** This public repository is a product-design showcase. Source code and installable builds are not distributed here. The concepts shown below describe the intended VMusic experience; feature availability and compatibility have **not** been verified from a public release.
+> **Commercial project showcase.** This public repository is a presentation of VMusic, not a distribution of its source code or an installable JAR. Feature descriptions below are design goals unless verified by a public release.
 
-## A different sound for every space
+## Music that belongs to the world
 
-**The lobby should sound like the lobby. The game should sound like the game.**
+**The same server. Different moods.**
 
-VMusic's design centers on music associated with where players are and what they are doing. A calm waiting area can have a different character from an active match, without overwhelming Minecraft's native sounds.
+VMusic is designed around audio contexts, rather than a single track playing everywhere. A lobby can feel welcoming, a game can have a different tempo, and background music can stay quiet enough to let Minecraft's own sounds breathe.
 
-The project direction calls for OGG audio, separate music contexts for lobby and games, and playlists that can change throughout the day. These are product goals, not an announcement that every feature is already shipping.
+The intended workflow uses **OGG audio** and playlists organized by experience. Music playback, integration and version compatibility must still be verified against an actual build before being described as shipped features.
 
-## Listening shaped around gameplay <img src="assets/emoji/music-groove.svg" alt="Mini Zoiila enjoying the music" width="27" height="27" />
+## A soundtrack for the moment
 
 <p align="center">
-  <img src="assets/vmusic-03-playback.svg" alt="VMusic playback concept: lobby ambience, game atmosphere, daily playlists and player volume" width="100%" />
+  <img src="assets/vmusic-03-playback.svg" width="100%" alt="VMusic playback presentation: lobby ambience, game music and listening preferences" />
 </p>
 
-| Experience | Design direction |
+| The moment | VMusic design direction |
+| :--- | :--- |
+| **Arriving in the lobby** | A welcoming, low-volume background atmosphere |
+| **Joining a game** | Music associated with the game instead of the main lobby |
+| **Waiting for the next song** | Late joiners synchronize at the next track |
+| **Choosing a comfortable level** | Global defaults with per-player volume preferences |
+| **Changing the atmosphere** | Planned playlist schedules, including an Asia/Riyadh daily route |
+
+*The visual above is an editorial illustration, not an in-game UI screenshot. The behaviors in this table are planned design requirements, not a claim of runtime acceptance.*
+
+## Set the mood, not the volume
+
+<p align="center">
+  <img src="assets/vmusic-04-setup-notes.svg" width="100%" alt="VMusic practical preparation notes: OGG files, music mood, player comfort and transitions" />
+</p>
+
+A good soundtrack feels like part of the world. For music preparation, start with these simple principles:
+
+- **Choose audio you can use.** Prepare properly licensed OGG files, keeping the sources and licensing information documented.
+- **Give each space a reason to sound different.** Avoid making every lobby, waiting room and game feel identical.
+- **Keep the level comfortable.** Background music should never drown out gameplay or essential sounds.
+- **Test the transitions.** Check entry, game changes, late joins, and the switch to the next song.
+
+The public repository does not currently provide a verified configuration reference, so this page intentionally avoids unsupported commands or copy-and-paste installation instructions.
+
+## Project information
+
+| Item | Publicly documented state |
 | --- | --- |
-| **Lobby ambience** | A soundtrack that feels at home in the main lobby. |
-| **Game atmosphere** | Music choices appropriate for individual game experiences. |
-| **Playlist rotation** | Music collections and an intended daily schedule using the Asia/Riyadh time zone. |
-| **Late joiners** | A planned next-track synchronization approach rather than dropping a player midway into a song. |
-| **Player controls** | Global volume defaults with individual player preferences. |
+| Developer | **VACK STUDIO** |
+| Distribution | Proprietary, shared privately with authorization |
+| Music source format | OGG — intended workflow |
+| Server and Java requirements | Not verified for public release |
+| Runtime playback acceptance | Not established from public files |
 
-*The playback illustration is an editorial concept, not a screenshot of an implemented Minecraft interface.*
-
-## Preparing music and useful tips
-
-<p align="center">
-  <img src="assets/vmusic-04-setup-notes.svg" alt="VMusic music preparation tips: audio, mood, volume and transitions" width="100%" />
-</p>
-
-**A few notes from Mini Zoiila** <img src="assets/emoji/music-mic-check.svg" alt="Mini Zoiila doing a microphone soundcheck" width="26" height="26" />
-
-- **Start with licensed audio.** Prepare OGG files that you have permission to use and distribute.
-- **Think in locations.** Make the lobby, waiting room and each game feel distinct without forcing a track to play constantly.
-- **Keep playback comfortable.** Quiet background music works better than a loud, repetitive loop.
-- **Test the edges.** Check late joins, changes between worlds, game entry and the transition to the next song.
-
-No setup commands are listed here because the public repository does not provide a verified, version-matched configuration reference.
-
-## Mini Zoiila — music poses
-
-<p align="center">
-  <img src="assets/vmusic-mascot-poses.svg" alt="Four music-themed Mini Zoiila pose studies: headphones, chill, microphone soundcheck and groove" width="100%" />
-</p>
-
-These are **hand-edited pixel-art variations** built on the authentic Mini Zoiila artwork. Music headphones, a relaxed listening pose, a microphone soundcheck and a lively groove give this project character without introducing a new mascot, fabricated record logo or decorative music discs.
-
-The pose artwork is presented for visual review; it is not an in-game feature screenshot.
-
-## Status and requirements
-
-| Item | Current public status |
-| --- | --- |
-| Source and installable JAR | Not published in this repository |
-| Publicly verified VMusic version | Not established |
-| Verified Paper and Java versions | Not established |
-| OGG-based audio workflow | Design direction; not independently release-verified |
-| Music integration and playback behavior | Needs runtime verification |
-
-VMusic's compatibility and install instructions should be updated from an actual tested build before publication as a production-ready plugin.
+If you're evaluating VMusic for a server, ask for the tested build version and documented setup requirements before deployment.
 
 ## Access and licensing
 
-VMusic is a proprietary VACK STUDIO project. For product access, licensing and release information, use the studio's official channels.
+**VMusic is a commercial VACK STUDIO project.** Contact the studio through its official channels for availability, license terms and release information.
 
 ---
 
 <p align="center">
-  <img src="assets/vmusic-05-studio-signature.svg" alt="Proudly crafted by VACK STUDIO, with BuiltByBit and Discord links and the original Zoiila and Chick signature" width="100%" />
+  <img src="assets/vmusic-05-studio-signature.svg" width="100%" alt="VACK STUDIO closing signature with the original Zoiila and Chick artwork" />
 </p>
 
 <p align="center">
-  <a href="https://builtbybit.com/members/vack-studio.891381/#latest-activity" aria-label="BuiltByBit" title="BuiltByBit"><img src="assets/builtbybit.svg" alt="BuiltByBit" width="26" height="26" /></a>
+  <a href="https://builtbybit.com/members/vack-studio.891381/#latest-activity" title="BuiltByBit" aria-label="BuiltByBit"><img src="assets/builtbybit.svg" alt="BuiltByBit" width="26" height="26" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/y45brtZBEE" aria-label="Discord" title="Discord"><img src="assets/discord.svg" alt="Discord" width="26" height="26" /></a>
+  <a href="https://discord.gg/y45brtZBEE" title="Discord" aria-label="Discord"><img src="assets/discord.svg" alt="Discord" width="26" height="26" /></a>
 </p>
 
 <details>
-<summary><strong>License and rights — VACK STUDIO</strong></summary>
+<summary><strong>License &amp; artwork credits</strong></summary>
 
 Copyright © 2026 VACK STUDIO. All rights reserved.
 
-VMusic, its original presentation art and documentation are proprietary. Source code and builds require authorization. Third-party assets retain their own licenses. Mini Zoiila's base pixel-art poses, the VACK brand artwork, the signature, and the social icons were reused from the owner's VRegister showcase. Music-themed edits were drawn on top of the original poses.
+VMusic, its presentation art and documentation are proprietary. Redistribution of proprietary source or builds requires authorization. Third-party software and assets retain their own rights.
+
+The VACK logo and original Zoiila/Chick signature are carried over from the VACK STUDIO project showcase. Visual banner concepts are review-stage artwork and do not document unverified software functionality.
 
 </details>
