@@ -18,7 +18,7 @@ The direction is deliberately restrained: music should complement Minecraft, not
 **The same server. Different moods.** <img src="assets/emoji/vmusic-singing.webp" alt="Mini Zoiila singing" width="24" height="24" />
 
 VMusic is designed around audio contexts, rather than a single track playing everywhere. A lobby can feel welcoming, a game can have a different tempo, and background music can stay quiet enough to let Minecraft's own sounds breathe.
-
+ 
 The intended workflow uses **OGG audio** and playlists organized by experience. Music playback, integration and version compatibility must still be verified against an actual build before being described as shipped features.
 
 ## A soundtrack for the moment <img src="assets/emoji/vmusic-groove.webp" alt="Mini Zoiila enjoying the rhythm" width="28" height="28" />
